@@ -48,5 +48,5 @@ $color = "kaki";
         break;
      default:
          echo "Try red or green";
-};
+}
 
